@@ -1,2 +1,2 @@
 # SORRY
-# Workshops have moved to [malwareunicorn.org](malwareunicorn.org)
+# Workshops have moved to [malwareunicorn.org](http:\\malwareunicorn.org)
